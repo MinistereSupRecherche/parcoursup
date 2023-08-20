@@ -1,3 +1,1 @@
-# parcoursup
-
-Retrouvez les algorithmes de parcoursup à cette adresse : https://framagit.org/parcoursup/algorithmes-de-parcoursup 
+La documentation et le code source des algorithmes de Parcoursup sont désormais disponibles à l'adresse [gitlab.mim-libre.fr/parcoursup/algorithmes-de-parcoursup](https://gitlab.mim-libre.fr/parcoursup/algorithmes-de-parcoursup).
